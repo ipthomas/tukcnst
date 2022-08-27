@@ -6,7 +6,7 @@
 package cnst
 
 const (
-	TEST                            = "test"
+	TEST1                           = "test"
 	NO_VALUE                        = "Not Provided"
 	TUK_DB_TABLE_SUBSCRIPTIONS      = "subscriptions"
 	TUK_DB_TABLE_XDWS               = "xdws"
