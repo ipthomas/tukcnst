@@ -3,7 +3,7 @@
  * file 'LICENSE', which is part of this source code package.
  */
 
-package tukconstants
+package tukcnst
 
 const (
 	NO_VALUE                        = "Not Provided"
