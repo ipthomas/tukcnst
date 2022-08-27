@@ -1,3 +1,3 @@
-module github.com/ipthomas/cnst
+module github.com/ipthomas/tukcnst
 
 go 1.19
