@@ -6,6 +6,8 @@
 package tukcnst
 
 const (
+	PDQv3                           = "pdqv3"
+	PIXv3                           = "pixv3"
 	OPEN                            = "OPEN"
 	READY                           = "READY"
 	CLOSED                          = "CLOSED"
@@ -13,6 +15,7 @@ const (
 	NO_VALUE                        = "Not Provided"
 	TUK_DB_TABLE_SUBSCRIPTIONS      = "subscriptions"
 	TUK_DB_TABLE_XDWS               = "xdws"
+	APPLICATION_JSON                = "application/json"
 	APPLICATION_JSON_CHARSET_UTF_8  = APPLICATION_JSON + "; charset=utf-8"
 	XDW_DEFINITION_FILE             = "_xdwdef"
 	DASHBOARD                       = "dashboard"
@@ -85,7 +88,6 @@ const (
 	SOAP_ACTION                     = "SOAPAction"
 	CONTENT_TYPE                    = "Content-Type"
 	TEXT_HTML                       = "text/html"
-	APPLICATION_JSON                = "application/json"
 	APPLICATION_XML                 = "application/xml"
 	SOAP_XML                        = "application/soap+xml"
 	ACCEPT                          = "Accept"
