@@ -6,6 +6,7 @@
 package tukcnst
 
 const (
+	PIXm                            = "pixm"
 	PDQv3                           = "pdqv3"
 	PIXv3                           = "pixv3"
 	OPEN                            = "OPEN"
