@@ -24,6 +24,8 @@ const (
 	QUERY_PARAM_ROLE                = "role"
 	QUERY_PARAM_VERSION             = "vers"
 	QUERY_PARAM_PDQ_SERVER          = "pdqserver"
+	QUERY_PARAM_RESPONSE_TYPE       = "rsptype"
+	QUERY_PARAM_CACHE               = "cache"
 	AWS_ENV_NHS_OID                 = "NHS_OID"
 	AWS_ENV_REG_OID                 = "REG_OID"
 	AWS_ENV_PDQ_SERVER_DEFAULT      = "PDQ_SERVER_DEFAULT"
