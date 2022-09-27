@@ -187,6 +187,7 @@ const (
 	DSUB_BROKER_URL                 = "DSUB_Broker_URL"
 	PIX_URL                         = "PIX_URL"
 	NHS_OID                         = "NHS_OID"
+	NHS_OID_DEFAULT                 = "2.16.840.1.113883.2.1.4.1"
 	REGION_OID                      = "Region_OID"
 	HOME_COMMUNITY_OID              = "Home_Community_OID"
 	FORMAT_JSON_PRETTY              = "&_format=json&_pretty=true"
