@@ -186,6 +186,7 @@ const (
 	NOTIFICATION_ELEMENT            = "<wsnt:NotificationMessage>"
 	DSUB_NOTIFY_ELEMENT             = "wsnt:Notify"
 	EXPRESSION_EQUALS               = "expression ="
+	SQL_DEFAULT_IDMAPS              = "SELECT * FROM idmaps"
 	SQL_DEFAULT_XDWS                = "SELECT * FROM xdws"
 	SQL_DEFAULT_EVENTS              = "SELECT * FROM events"
 	SQL_DEFAULT_WORKFLOWS           = "SELECT * FROM workflows"
