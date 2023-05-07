@@ -231,6 +231,7 @@ const (
 	XDW_ACTOR_CONTENT_CREATOR               = "XDW_Creator"
 	XDW_ACTOR_CONTENT_UPDATER               = "XDW_Updater"
 	XDW_ADMIN_REGISTER_DEFINITION           = "XDW_Register_Definition"
+	XDW_ADMIN_Register_Template             = "HTML_Register_Template"
 	XDW_ADMIN_REGISTER_XDS_META             = "XDW_Register_XDS_Meta"
 	XDW_DOCEVENTTYPE_CREATE_WORKFLOW        = "CREATE_WORKFLOW"
 	XDW_DOCEVENTTYPE_COMPLETED_WORKFLOW     = "COMPLETED_WORKFLOW"
