@@ -249,6 +249,7 @@ const (
 	XDW_TASKEVENTTYPE_COMMENT               = "addComment"
 	XDW_TASKEVENTTYPE_ESCALATED             = "escalated"
 	XDW_TASKEVENTTYPE_RESERVED              = "reserved"
+	XDW_OPERATION_GET_EXPRESSIONS           = "getExpressions"
 	XDW_OPERATION_GET_TASKS                 = "getTasks"
 	XDW_OPERATION_GET_PATHWAYS              = "getPathways"
 	XDW_OPERATION_GET_ICB_PATIENT           = "getICBPatient"
