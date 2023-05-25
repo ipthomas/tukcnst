@@ -55,7 +55,7 @@ const (
 	ENV_EVENT_NOTIFIER_URL                  = "EVENT_NOTIFIER_URL"
 	ENV_XDW_CONSUMER_URL                    = "XDW_CONSUMER_URL"
 	ENV_XDW_CREATOR_URL                     = "XDW_CREATOR_URL"
-	ENV_XDW_ADMIN_URL                       = "ENV_XDW_ADMIN_URL"
+	ENV_XDW_USER_URL                        = "ENV_XDW_USER_URL"
 	ENV_TUK_DB_URL                          = "TUK_DB_URL"
 	ENV_DB_HOST                             = "DB_HOST"
 	ENV_DB_NAME                             = "DB_NAME"
